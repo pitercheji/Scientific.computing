@@ -41,6 +41,13 @@ python -m pip install numpy matplotlib scipy pandas
 
 ## Getting Started
 
+Clone the repository:
+
+```bash
+git clone https://github.com/kariukiii-oss/Scientific-Computing..git
+cd Scientific-Computing.
+```
+
 Run an example:
 
 ```bash
@@ -58,4 +65,4 @@ The NumPy heart-rate example calculates the mean, minimum, maximum, and readings
 python "1.NumPy/Heartrate.py"
 ```
 
-END.# 
+END.
